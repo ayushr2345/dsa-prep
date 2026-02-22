@@ -1,5 +1,5 @@
 # 🚀 DSA Preparation
-![DSA Progress](https://img.shields.io/badge/Problems_Solved-1-blue)
+![DSA Progress](https://img.shields.io/badge/Problems_Solved-5-blue)
 
 This repository contains my solutions to Data Structures and Algorithms problems solved during preparation.
 
@@ -9,7 +9,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 
 | Topic | Problems Solved |
 |------|-----------------|
-| Arrays | 0 |
+| Arrays | 5 |
 | Strings | 0 |
 | Sliding Window | 0 |
 | Two Pointers | 0 |
