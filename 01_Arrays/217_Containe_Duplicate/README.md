@@ -1,8 +1,4 @@
-# 217. Contains Duplicate
-
-**Difficulty:** Easy  
-**Link:** https://leetcode.com/problems/contains-duplicate/
-
+# [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) ![Easy](https://img.shields.io/badge/Easy-blue)
 
 
 ## 📝 Problem Statement
@@ -20,7 +16,6 @@ Given an integer array `nums`, return:
 nums = [1, 2, 3, 1]
 
 **Output:**
-
 true
 
 **Explanation:**
@@ -34,6 +29,7 @@ The element `1` occurs at indices `0` and `3`.
 nums = [1, 2, 3, 4]
 
 **Output:**
+false
 
 **Explanation:**
 All elements are distinct.
@@ -69,7 +65,6 @@ Then iterate through it and check if any two **adjacent elements are equal**.
 If yes → duplicate exists → return `true`.  
 Otherwise → return `false`.
 
----
 
 ## ⏱️ Time Complexity
 

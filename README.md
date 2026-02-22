@@ -1,5 +1,5 @@
 # 🚀 DSA Preparation
-![DSA Progress](https://img.shields.io/badge/Problems_Solved-0-blue)
+![DSA Progress](https://img.shields.io/badge/Problems_Solved-1-blue)
 
 This repository contains my solutions to Data Structures and Algorithms problems solved during preparation.
 
