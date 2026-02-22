@@ -2,7 +2,7 @@
 
 ![Easy](https://img.shields.io/badge/Easy-blue)
 ![Medium](https://img.shields.io/badge/Medium-yellow)
-![Hard](https://img.shields.io/badge/Hard-RED)
+![Hard](https://img.shields.io/badge/Hard-red)
 
 
 ## 📝 Problem Statement
