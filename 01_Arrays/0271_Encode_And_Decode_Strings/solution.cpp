@@ -1,4 +1,3 @@
-#include<string.h>
 class Solution {
 public:
 
@@ -15,13 +14,10 @@ public:
     vector<string> decode(string s) {
         vector<string> res;
         int i = 0;
-        cout << s << s.size() << "\n"; 
         while (i < s.size()) {
-            string strLen = s.substr(i, i + 32);
+            string strLen = s.substr(i, 32);
             std::bitset<32> strLenBits(strLen);
-            cout << strLen << "\n";
             string str = s.substr(i + 32, strLenBits.to_ulong());
-            cout << str << "\n";
             res.push_back(str);
             i = i + 32 + strLenBits.to_ulong();
             cout << i;
