@@ -1,7 +1,7 @@
 # 🚀 DSA Preparation
 
 <!-- Start of automation -->
-![DSA Progress](https://img.shields.io/badge/Problems_Solved-24-blue)
+![DSA Progress](https://img.shields.io/badge/Problems_Solved-25-blue)
 
 This repository contains my solutions to Data Structures and Algorithms problems solved during preparation.
 
@@ -15,7 +15,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | Strings | 0 |
 | Sliding Window | 4 |
 | Two Pointers | 4 |
-| Binary Search | 3 |
+| Binary Search | 4 |
 | Linked List | 0 |
 | Stack | 4 |
 | Queue | 0 |
