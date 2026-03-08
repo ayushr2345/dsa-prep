@@ -1,7 +1,7 @@
 # 🚀 DSA Preparation
 
 <!-- Start of automation -->
-![DSA Progress](https://img.shields.io/badge/Problems_Solved-30-blue)
+![DSA Progress](https://img.shields.io/badge/Problems_Solved-31-blue)
 
 This repository contains my solutions to Data Structures and Algorithms problems solved during preparation.
 
@@ -27,7 +27,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | Greedy | 0 |
 | Dynamic Programming | 0 |
 | Trie | 0 |
-| Bit Manipulation | 3 |
+| Bit Manipulation | 4 |
 | Math | 0 |
 | Misc | 0 |
 
